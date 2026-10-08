@@ -161,6 +161,12 @@ Document as you build       →  Future-you is a different person
 
 ---
 
+## RovaTech Founder
+
+Technology with purpose. Code that serves people.
+
+[Visit RovaTech on GitHub →](https://github.com/rovatech-git)
+
 <div align="center">
 
 *More projects and documentation coming soon.*
