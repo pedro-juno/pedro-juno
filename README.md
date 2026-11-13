@@ -1,17 +1,17 @@
 <div align="center">
 
 <pre>
-██████╗ ███████╗██████╗ ██████╗  ██████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
-██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
-██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
-██║     ███████╗██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+██████╗ ███████╗██████╗ ██████╗  ██████╗    ██████╗  ██████╗  ██████╗██╗  ██╗ █████╗    ██╗   ██╗ █████╗ ██╗     ███████╗██████╗ ██╗ █████╗ ███╗   ██╗ ██████╗ 
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗   ██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗   ██║   ██║██╔══██╗██║     ██╔════╝██╔══██╗██║██╔══██╗████╗  ██║██╔═══██╗
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║   ██████╔╝██║   ██║██║     ███████║███████║   ██║   ██║███████║██║     █████╗  ██████╔╝██║███████║██╔██╗ ██║██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║   ██╔══██╗██║   ██║██║     ██╔══██║██╔══██║   ╚██╗ ██╔╝██╔══██║██║     ██╔══╝  ██╔══██╗██║██╔══██║██║╚██╗██║██║   ██║
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝   ██║  ██║╚██████╔╝╚██████╗██║  ██║██║  ██║    ╚████╔╝ ██║  ██║███████╗███████╗██║  ██║██║██║  ██║██║ ╚████║╚██████╔╝
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 </pre>
 
 <h1>Pedro Rocha Valeriano</h1>
 
-<p><strong>Computer Science Student · Automation Engineer · Systems Integrator</strong></p>
+<p><strong>Estudante de Ciência da Computação · Engenheiro de Automação · Integrador de Sistemas</strong></p>
 
 <p>
   <a href="https://linkedin.com/in/pedrorvaleriano/">
@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/pedrorvaleriano/">
-    <img src="https://komarev.com/ghpvc/?username=pedrorvaleriano&style=flat-square&color=0A66C2" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=pedrorvaleriano&style=flat-square&color=0A66C2" alt="Visualizações do Perfil"/>
   </a>
 </p>
 
@@ -31,24 +31,23 @@
 
 ---
 
-## About
+## Sobre
 
-I build automation systems that eliminate manual effort and connect fragmented workflows. My focus is on applied AI, document intelligence, and scalable integrations — turning repetitive processes into reliable, zero-touch pipelines.
+Construo sistemas de automação que eliminam o esforço manual e conectam fluxos de trabalho fragmentados. Meu foco está em IA aplicada, inteligência documental e integrações escaláveis — transformando processos repetitivos em pipelines confiáveis e autônomos.
 
-Currently studying Computer Science while applying hands-on experience across Power Platform, Python, REST API architectures, and game scripting. I care about solutions that actually ship: practical, maintainable, and measurable.
+Atualmente curso Ciência da Computação enquanto aplico experiência prática em Power Platform, Python, arquiteturas de APIs REST e scripting para jogos. Priorizo soluções que realmente vão para produção: práticas, sustentáveis e mensuráveis.
 
-When I'm not automating enterprise workflows, I'm investigating system behavior at a low level — tracing root causes, writing reproducible fixes, and scripting game logic in Lua.
+Quando não estou automatizando fluxos corporativos, investigo o comportamento de sistemas em baixo nível — rastreando causas raiz, escrevendo correções reproduzíveis e programando lógica de jogos em Lua.
 
 ```
-Automation & Integration  ████████████████████  
-Applied AI & OCR          ████████████████░░░░  
-API Design & Integration  ███████████████░░░░░  
-Backend & Systems         ███████████████░░░░░  
-Game Scripting & UX       █████████████░░░░░░░  
-Problem Investigation     ████████████████████  
-Web Development           ████████████░░░░░░░░  
+Automação & Integração     ████████████████████
+IA Aplicada & OCR          ████████████████░░░░
+Design & Integração de API ███████████████░░░░░
+Backend & Sistemas         ███████████████░░░░░
+Game Scripting & UX        █████████████░░░░░░░
+Investigação de Problemas  ████████████████████
+Desenvolvimento Web        ████████████░░░░░░░░
 ```
-
 ---
 
 ## Tech Stack
@@ -82,72 +81,70 @@ Web Development           ████████████░░░░░░
 
 ---
 
-## Highlight Projects
+## Projetos em Destaque
 
-### 🔍 Intelligent Invoice Processing
-> Automated extraction pipeline for PDF invoices and NFS-e fiscal documents
+### 🔍 Processamento Inteligente de Notas Fiscais
+> Pipeline automatizado de extração para faturas em PDF e documentos fiscais (NFS-e)
 
-Replaced a fully manual data-entry workflow with an end-to-end automation that reads, validates, and routes fiscal documents — reducing processing time and human error significantly.
+Substituí um fluxo totalmente manual de entrada de dados por uma automação ponta a ponta que lê, valida e direciona documentos fiscais — reduzindo significativamente o tempo de processamento e erros humanos.
 
 **Stack:** `Power Automate` `AI Builder` `OCR` `SharePoint` `Regex`
 
 ---
 
-### 🗄️ Centralized Storage Infrastructure
-> 10TB network-attached storage serving heterogeneous environments
+### 🗄️ Infraestrutura de Armazenamento Centralizado
+> Armazenamento em rede (NAS) de 10 TB atendendo ambientes heterogêneos
 
-Designed and deployed a centralized storage solution supporting both Windows and Linux machines via dual-protocol sharing — consolidating scattered local storage into a single, reliable source.
+Projetei e implantei uma solução de armazenamento centralizado com suporte a máquinas Windows e Linux via compartilhamento de protocolo duplo — consolidando armazenamentos locais dispersos em uma única fonte confiável.
 
 **Stack:** `Linux` `Windows Server` `SMB` `NFS`
 
 ---
 
-### 🤖 Productivity Bots for Microsoft Teams
-> Workflow automations and conversational bots for internal operations
+### 🤖 Bots de Produtividade para Microsoft Teams
+> Automações de fluxo de trabalho e bots conversacionais para operações internas
 
-Built a suite of bots and automated flows that handle routine team operations: notifications, approvals, status updates, and process triggers — reducing context-switching and manual coordination.
+Desenvolvi um conjunto de bots e fluxos automatizados que gerenciam rotinas da equipe: notificações, aprovações, atualizações de status e gatilhos de processos — reduzindo a troca de contexto e a coordenação manual.
 
 **Stack:** `Microsoft Teams` `Power Platform` `Copilot Studio`
 
 ---
 
-### 🎮 Game Scripting & UX Systems
-> Lua-based gameplay logic and player experience engineering
+### 🎮 Game Scripting & Sistemas de UX
+> Lógica de gameplay baseada em Lua e engenharia de experiência do jogador
 
-Designed and implemented game mechanics, UI feedback loops, and player-facing systems using Lua — with a focus on responsiveness, feedback clarity, and intuitive interaction patterns. Approached game UX the same way as product UX: iterative, data-aware, and player-first.
+Projetei e implementei mecânicas de jogo, ciclos de feedback de interface e sistemas voltados ao jogador utilizando Lua — com foco em responsividade, clareza de feedback e padrões intuitivos de interação. Abordo a UX de jogos da mesma forma que a UX de produtos: iterativa, orientada a dados e centrada no usuário.
 
 **Stack:** `Lua` `Game Engines` `UX Design` `Event-driven Architecture`
 
 ---
 
-### 🔗 REST API Integration Framework
-> Reusable integration layer for connecting internal systems to external APIs
+### 🔗 Framework de Integração de APIs REST
+> Camada de integração reutilizável para conectar sistemas internos a APIs externas
 
-Built a structured approach to API consumption: authentication flows (OAuth 2.0, API keys), error handling, retry logic, and response normalization — used as a foundation across multiple automation projects.
+Construí uma estrutura padronizada para consumo de APIs: fluxos de autenticação (OAuth 2.0, chaves de API), tratamento de erros, lógica de retentativa e normalização de respostas — utilizada como base em múltiplos projetos de automação.
 
 **Stack:** `Python` `REST APIs` `OAuth 2.0` `Webhooks` `Microsoft Graph`
 
 ---
 
-### 🛠️ Root Cause Investigation & System Diagnostics
-> Systematic debugging across OS, network, and application layers
+### 🛠️ Investigação de Causa Raiz & Diagnóstico de Sistemas
+> Depuração sistemática nas camadas de sistema operacional, rede e aplicação
 
-Developed a personal methodology for diagnosing complex, non-reproducible failures — combining log analysis, behavioral tracing, and controlled testing. Focus on permanent fixes over workarounds: understanding *why* something breaks before touching the configuration.
+Desenvolvi uma metodologia própria para diagnosticar falhas complexas e não reproduzíveis — combinando análise de logs, rastreamento comportamental e testes controlados. Foco em correções definitivas em vez de soluções paliativas: entender *por que* algo falha antes de alterar a configuração.
 
 **Stack:** `Windows Internals` `PowerShell` `Linux CLI` `Event Viewer` `Wireshark`
 
 ---
 
-## Engineering Principles
-
+## Princípios de Engenharia
 ```
-Investigate before fixing   →  Understand root cause; don't patch symptoms
-Automate the second time    →  If you do it twice, it should run itself
-Fail loudly, recover cleanly →  Explicit errors beat silent failures
-Measure before optimizing   →  Data over intuition when performance matters
-Document as you build       →  Future-you is a different person
+Investigue antes de corrigir    →  Entenda a causa raiz; não mascare sintomas
+Automatize na segunda vez       →  Se você faz algo duas vezes, deve rodar sozinho
+Falhe visivelmente, recupere-se →  Erros explícitos superam falhas silenciosas
+Meça antes de otimizar          →  Dados acima de intuição quando performance importa
+Documente enquanto constrói     →  O seu "eu" do futuro é outra pessoa
 ```
-
 ---
 
 ## Currently Learning
@@ -161,14 +158,25 @@ Document as you build       →  Future-you is a different person
 
 ---
 
-## RovaTech Founder
+## Aprendendo Atualmente
 
-Technology with purpose. Code that serves people.
+- **Lua avançado** — coroutines, metatables e embarque em ambientes C
+- **UX para Jogos** — design de feedback, teoria de affordance e metodologia de playtesting
+- **Segurança de APIs** — rotação de tokens, rate limiting e validação segura de webhooks
+- **IA Aplicada** — inteligência documental e integração de LLMs em pipelines de automação
+- **Administração Linux** — shell scripting, gerenciamento de serviços e redes
+- **Arquitetura** — design de automações escaláveis e tolerantes a falhas
 
-[Visit RovaTech on GitHub →](https://github.com/rovatech-git)
+---
+
+## Membro Fundador da RovaTech
+
+Tecnologia com propósito. Código que serve às pessoas.
+
+[Visite a RovaTech no GitHub →](https://github.com/rovatech-git)
 
 <div align="center">
 
-*More projects and documentation coming soon.*
+*Mais projetos e documentações em breve.*
 
 </div>
