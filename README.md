@@ -11,7 +11,7 @@
 
 <h1>Pedro Rocha Valeriano</h1>
 
-<p><strong>Estudante de Ciência da Computação · Engenheiro de Automação · Integrador de Sistemas</strong></p>
+<p><strong>Ciência da Computação | Automação & IA Aplicada | Integração de Sistemas & APIs | Engenharia de Software</strong></p>
 
 <p>
   <a href="https://linkedin.com/in/pedrorvaleriano/">
