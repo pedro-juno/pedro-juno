@@ -11,7 +11,7 @@
 
 <h1>Pedro Rocha Valeriano</h1>
 
-<p><strong>Ciência da Computação | Automação & IA Aplicada | Integração de Sistemas & APIs | Engenharia de Software</strong></p>
+<p><strong>Ciência da Computação | Automação & IA Aplicada | Sistemas & APIs | Eng. de Software</strong></p>
 
 <p>
   <a href="https://linkedin.com/in/pedrorvaleriano/">
